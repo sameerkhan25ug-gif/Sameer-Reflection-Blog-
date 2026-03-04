@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Feb 2026 12:05:58 +0530</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Wed, 04 Feb 2026 12:05:58 +0530</pubDate>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;hi&#34;&gt;Hi,&lt;/h5&gt;&#xA;&lt;p&gt;I am Sameer Khan. I am a student of  &lt;em&gt;&lt;strong&gt;Azim Premji University&lt;/strong&gt;&lt;/em&gt;  doing Bsc. Information Science (Honour). As a part of course I am cuyrrently learning how to make blog and associate it with github for the proper update. Throughout the course I will be sharing the &lt;strong&gt;reflection&lt;/strong&gt; and &lt;strong&gt;learning&lt;/strong&gt; that I had through this Blog.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h2 id=&#34;course-intro&#34;&gt;Course Intro&lt;/h2&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;This is the course in which we are majorly dealing how to &lt;em&gt;&lt;strong&gt;manage the information and analyse it&lt;/strong&gt;&lt;/em&gt;. To have hand on learning on whatever we are stydying in course we do have practical &lt;em&gt;&lt;strong&gt;LAB SESSIONS&lt;/strong&gt;&lt;/em&gt; on every wednesday for 4 hours.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
