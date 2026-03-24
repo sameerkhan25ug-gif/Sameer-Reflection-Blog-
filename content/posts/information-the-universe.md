@@ -1,6 +1,6 @@
 +++
 date = '2026-03-18T22:50:55+05:30'
-draft = true
+draft = false
 title = 'Information the Universe- Becoming savvy to deal with information'
 +++
 
